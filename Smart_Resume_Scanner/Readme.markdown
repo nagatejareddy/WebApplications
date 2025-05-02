@@ -113,4 +113,4 @@ Developed by Y Naga Teja Reddy. All rights reserved.
 
 ---
 
-Powered by RS
+Powered by Resume Scanner
