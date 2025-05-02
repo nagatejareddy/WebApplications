@@ -1,0 +1,8 @@
+{
+  "Software Engineer": ["Python", "Java", "C++", "JavaScript", "SQL", "Git", "AWS", "Docker"],
+  "Data Scientist": ["Python", "R", "SQL", "Machine Learning", "Pandas", "NumPy", "TensorFlow", "Statistics"],
+  "Product Manager": ["Project Management", "Agile", "Scrum", "Stakeholder Management", "UX", "Roadmap"],
+  "Marketing Specialist": ["SEO", "Content Marketing", "Social Media", "Google Analytics", "Branding"],
+  "DevOps Engineer": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform", "Ansible"],
+  "Full Stack Developer": [""]
+}
