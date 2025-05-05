@@ -1,6 +1,6 @@
 # Auth Dashboard App
 
-![Auth Dashboard App](assets/screenshot.png) <!-- Placeholder for screenshot -->
+
 
 A modern, client-side web application built with HTML, CSS, and JavaScript, featuring user authentication, profile management, and a to-do list. The app includes a visually appealing dashboard with a card-based layout, dark/light mode, password strength indicators, and JSON data import/export functionality.
 
@@ -17,16 +17,6 @@ A modern, client-side web application built with HTML, CSS, and JavaScript, feat
 - **Smooth Animations**: Fade-in transitions between pages and interactive button effects.
 - **Session Management**: Maintains login state using `sessionStorage`.
 
-## Demo
-
-<!-- Add a link to a live demo if hosted, e.g., GitHub Pages -->
-*Live demo coming soon!*
-
-## Screenshots
-
-<!-- Placeholder for screenshots; replace with actual images -->
-![Dashboard](assets/dashboard-light.png)
-![Dark Mode](assets/dashboard-dark.png)
 
 ## Installation
 
@@ -164,9 +154,6 @@ Contributions are welcome! To contribute:
 
 Please ensure code follows the existing style and includes tests if applicable.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -175,8 +162,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, open an issue or contact [your-username](https://github.com/your-username).
+For questions or feedback, open an issue or contact [nagatejareddy](https://github.com/nagatejareddy).
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Naga Teja Reddy
